@@ -65,7 +65,7 @@ void QuickSort(int arr[], int start ,int end){
 
 int main(){
     int arr[8] = {6,2,2,2,8,1,20,40};
-    int size = 6;
+    int size = 8;
     int start = 0 ;
     int end = size - 1;
     PrintArray(arr, start, end );

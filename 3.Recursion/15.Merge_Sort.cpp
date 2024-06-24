@@ -79,8 +79,8 @@ void MergeSort(int arr[], int start , int end){
 
 }
 int main(){
-    int arr[6] = {6,75,2,2,2,1};
-    int size = 6;
+    int arr[8] = {6,2,2,2,8,1,20,40};
+    int size = 8;
     int start = 0 ;
     int end = size - 1;
     PrintArray(arr, start, end );
