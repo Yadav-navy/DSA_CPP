@@ -43,7 +43,7 @@ class Hero{
 };
 
 int main(){
-    Hero a(10,'A');
+    Hero a(10,'B');
     Hero b(a); 
 
     a.print();
